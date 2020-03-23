@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomUserAvatar">
+        <!--绘制头像背景风格-->
+        <attr name="background_style" format="integer" />
+        <!--头像中文字颜色-->
+        <attr name="text_color" format="integer" />
+        <!--头像背景颜色-->
+        <attr name="background_color" format="integer" />
+        <!--是否绘制发光效果-->
+        <attr name="show_blur_Mask" format="boolean" />
+        <!--显示的中文名字字数-->
+        <attr name="chinese_name" format="integer"/>
+        <!--显示的英文名字字数-->
+        <attr name="english_name" format="integer"/>
+    </declare-styleable>
+</resources>

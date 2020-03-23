@@ -1,0 +1,3 @@
+rootProject.name='CircularAvatar'
+include ':app'
+include ':lib_circularavatar'
